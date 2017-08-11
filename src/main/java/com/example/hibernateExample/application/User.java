@@ -11,6 +11,7 @@ public class User {
 	@Id
 	int id;
 	String name;
+	
 
 	public int getId() {
 		return id;
